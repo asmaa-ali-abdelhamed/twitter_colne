@@ -83,7 +83,7 @@ sign_up.addEventListener("click", () => {
 });
 
 log_in.addEventListener("click", () => {
-  window.location.href = "/loginpage.html";
+  window.location.href = "loginpage.html";
 });
 
 //forgot button
